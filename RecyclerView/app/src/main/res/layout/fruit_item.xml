@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:xlmns="http://schemas.android.com/apk/res/android"
+    xlmns:layout_width="match_parent"
+    xlmns:layout_height="wrap_content"
+    xlmns:orientation="vertical"
+    xlmns:layout_margin="5dp"
+    >
+
+    <ImageView
+        xlmns:id="@+id/fruit_image"
+        xlmns:layout_width="wrap_content"
+        xlmns:layout_height="wrap_content"
+        xlmns:layout_gravity="center_horizontal"
+        />
+    <TextView
+        xlmns:id="@+id/fruit_name"
+        xlmns:layout_width="wrap_content"
+        xlmns:layout_height="wrap_content"
+        xlmns:layout_gravity="left"
+        xlmns:layout_marginTop="10dp"/>
+</LinearLayout>

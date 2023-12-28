@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="android_scheme">http</string>
+</resources>
